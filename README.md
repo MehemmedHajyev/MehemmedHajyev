@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehemmed</h1>
+<h1 align="center">Hi 👋, I'm Mehemmed Hajiyeff</h1>
 <h3 align="center">A passionate frontend developer from Azerbajan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehemmedhajyev&label=Profile%20views&color=0e75b6&style=flat" alt="mehemmedhajyev" /> </p>
